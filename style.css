@@ -1,0 +1,43 @@
+#welcome{
+    text-align: center;
+}
+#policy{
+    text-align: center;
+}
+#campus{
+    text-align: center;
+}
+h1{
+    background-color: azure;
+    color: dodgerblue ;
+}
+h2{
+    background-color: azure;
+    color: dodgerblue;
+}
+h3{
+    font-size: 30px;
+    color: deepskyblue;
+}
+h4{
+    font-size: 30px;
+    color: deepskyblue;
+}
+h5{
+    font-size: 30px;
+    color: deepskyblue;
+}
+h6{
+    font-size: 30px;
+    color: deepskyblue;
+}
+p{
+    font-size: 15px;
+    color: chartreuse;
+}
+ul{
+    background-color: black;
+}
+.name{
+    background-color: black;
+}
